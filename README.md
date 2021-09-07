@@ -1,2 +1,2 @@
-# Sichi2
+# Sichi
 website
